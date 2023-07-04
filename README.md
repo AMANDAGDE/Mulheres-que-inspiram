@@ -1,5 +1,5 @@
 # Mulheres-que-inspiram
-Mulheres de TI que inpiram
+Mulheres de TI que inspiram
 <!Doctype html>
 <html>
 <head>
